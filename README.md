@@ -1,2 +1,5 @@
 # eks-argocd-awsespanol
-Repository with eks deployment test with ArgoCD.
+
+Repositorio con el código utilizado para el despliegue de EKS con ArgoCD por parte de Awtwins. :)
+
+
